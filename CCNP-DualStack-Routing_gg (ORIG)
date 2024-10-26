@@ -1950,7 +1950,7 @@ R1#sh ip bgp 33.33.33.33
     209.9.9.3 from 209.9.9.3 (33.33.33.33)
       Origin IGP, metric 0, localpref 100, valid, external, best <<
 
-R1#sh ip bgp 33.33.33.33
+R1#sh ip bgp 22.22.22.22
     207.7.7.2 from 207.7.7.2 (22.22.22.22)
       Origin IGP, metric 0, localpref 100, valid, external, best <<
 
